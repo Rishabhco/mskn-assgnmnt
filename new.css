@@ -29,9 +29,9 @@ body {
   }
   
   .second-text {
-    font-size: 2rem;
+    font-size: 1.8rem;
     position: absolute;
-    top: 4rem;
+    top: 2.5rem;
     opacity: 0;
     animation-name: rightFadeInOut;
     animation-delay: 3s;
@@ -54,9 +54,9 @@ body {
   }
   
   .fourth-text {
-    font-size: 3rem;
+    font-size: 2rem;
     position: absolute;
-    top: 9.5rem;
+    top: 7.5rem;
     left: 10%;
     opacity: 0;
     color: #f0a3be;
