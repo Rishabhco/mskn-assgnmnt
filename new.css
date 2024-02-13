@@ -18,7 +18,7 @@ body {
   }
   
   .first-text {
-    font-size: 4.4rem;
+    font-size: 2.4rem;
     position: absolute;
     left: 2.5rem;
     top: 5rem;
@@ -29,9 +29,9 @@ body {
   }
   
   .second-text {
-    font-size: 3.4rem;
+    font-size: 2rem;
     position: absolute;
-    top: 8.5rem;
+    top: 4rem;
     opacity: 0;
     animation-name: rightFadeInOut;
     animation-delay: 3s;
@@ -43,7 +43,7 @@ body {
     transform: rotate(-90deg);
     font-size: 2rem;
     position: absolute;
-    left: 45%;
+    left: 35%;
     top: 45%;
     opacity: 0;
     animation-name: topFadeOutVertical;
@@ -54,9 +54,9 @@ body {
   }
   
   .fourth-text {
-    font-size: 3.4rem;
+    font-size: 3rem;
     position: absolute;
-    top: 10.5rem;
+    top: 9.5rem;
     left: 10%;
     opacity: 0;
     color: #f0a3be;
@@ -66,7 +66,7 @@ body {
   }
   
   .fifth-text {
-    font-size: 5rem;
+    font-size: 2.8rem;
     position: absolute;
     left: 5%;
     bottom: 25%;
