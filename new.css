@@ -107,13 +107,6 @@ body {
     height: auto;
 }
 
-.heart:hover > img {
-    animation-name: beat; /* Keep beat animation on hover */
-    animation-duration: 2s;
-    animation-timing-function: ease-in;
-    animation-iteration-count: infinite;
-}
-
 @keyframes showHeart {
     0% {
         opacity: 0;
@@ -134,7 +127,7 @@ body {
         transform: scale(1);
     }
 }
-  
+
   @keyframes topFadeOut {
     0% {
       position: absolute;
